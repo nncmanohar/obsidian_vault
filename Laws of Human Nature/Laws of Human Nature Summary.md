@@ -40,6 +40,8 @@ Biases
 1. Present Bias (temporal discounting, delay discounting, marshmallow test)
 
 
+-----------
+
 Cognitive Biases that can fool us
 
 **Decoy effect**
@@ -58,7 +60,7 @@ People evaluate choices comparatively rather than absolutely; introducing a stra
 
 ---------------
 
-Systems
+**Systems**
 
 We understand cause and effect as a simple relationship: **a cause produces an effect. But the effect can itself become a cause, producing secondary effects, which can then become causes of further effects—creating a chain of consequences.**
 
@@ -69,4 +71,21 @@ We understand cause and effect as a simple relationship: **a cause produces an e
 Consider an employee whose compensation is based entirely on commission. The employee is likely to prioritize selling products that earn a higher commission, even when those products are not in the customer's best interest.
 
 ---------
+
+**Law of Triviality (Bike shedding) :** The tendency to waste disproportionate time on trivial details because they are easy to understand, while ignoring complex, high-stakes decisions.
+
+- **The Origin Story:** A committee approving a nuclear power plant spent minimal time rubber-stamping the complex reactor plans, but spent hours arguing over the design and color of the employee bike shed.
+- **The Root Cause:** Complex problems overwhelm people, so they stop analyzing early. Trivial matters allow everyone to easily contribute and feel productive without taking on real responsibility.
+- **The Takeaway:** Time spent on a problem is often inversely proportional to its actual importance. Force focus back onto the substantive core. 
+
+Time spent on a problem is often inversely proportional to its actual importance. Force focus back onto the substantive core.
+
+**Other forms:**
+- Replying to not important emails and chats
+- Gossip
+- Unnecessary optimizations 
+
+----------
+
+
 
