@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "52de1f1d9620f8de",
+        "id": "d084376ce3d1e105",
         "type": "tabs",
         "children": [
           {
-            "id": "b4290b2445f0424a",
+            "id": "4cefc7df40b5b718",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "B Professional/read-your-writes consistency.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "read-your-writes consistency"
             }
           }
         ]
@@ -185,38 +190,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4290b2445f0424a",
+  "active": "4cefc7df40b5b718",
   "lastOpenFiles": [
-    "Poor Charles almanak/Psychological Tendencies by munger.md",
-    "Poor Charles almanak/Natural Laws.md",
-    "Poor Charles almanak/Seven Habits of Highly effective people.md",
-    "Personal Philosophy/Personal Philosophy Summary.md",
-    "Laws of Human Nature/Laws of Human Nature Summary.md",
-    "Untitled.md",
-    "Laws of Human Nature/Law of irrationality.md",
-    "Financial Literacy/Personal Finance.md",
-    "Financial Literacy/Financial Statements.md",
-    "Financial Literacy/Financial Literacy Summary.md",
-    "Financial Literacy/Business Literacy.md",
-    "FrequentWordCount.md",
+    "B Professional/A - Distributed Systems.md",
+    "B Professional/A - Professional Notes.md",
+    "B Professional/ACID Properties.md",
+    "B Professional/CAP Theorem.md",
+    "B Professional/GCC_LIST.pdf",
+    "B Professional/read-your-writes consistency.md",
+    "B Professional/Split Brain Resolver.md",
+    "B Professional/Istio.md",
+    "B Professional/consul.md",
+    "B Professional/etcd.md",
+    "B Professional/Advanced SQL.md",
+    "B Professional/clusters.md",
+    "B Professional/Acronyms.md",
+    "B Professional/Job Market.md",
     "Obsidian.md",
-    "Federal Express Case.md",
-    "Federal.md",
+    "Cognitive bias Codex/AA - Codex.md",
+    "B Professional/SPARK.md",
+    "Cognitive bias Codex/Availability Heuristic.md",
+    "Untitled",
+    "B Professional",
+    "Cognitive bias Codex/Subjective Validation.md",
+    "Cognitive bias Codex/Semmelweis reflex.md",
+    "Cognitive bias Codex/Selective Perception.md",
+    "Cognitive bias Codex/Post purchase rationalization.md",
+    "Cognitive bias Codex/Ostrich Effect.md",
+    "Cognitive bias Codex/Continuous influence effect.md",
+    "Cognitive bias Codex/Congruence Bias.md",
+    "Cognitive bias Codex/Confirmation bias.md",
+    "Untitled.canvas",
     "Untitled.base",
+    "Cognitive bias Codex",
     "Personal Philosophy",
-    "Productivity/The goal by Goldratt.md",
     "Financial Literacy",
-    "Productivity/Productivity Summary.md",
     "Productivity/Untitled",
     "Productivity",
-    "Poor Charles almanak",
-    "Welcome.md",
-    "Second law.md",
-    "Three laws.md",
-    "first law.md",
-    "Laws of Human Nature",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.canvas"
+    "Poor Charles almanak"
   ]
 }
